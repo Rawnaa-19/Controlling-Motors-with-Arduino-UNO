@@ -33,5 +33,6 @@ The servo motor has 3 wires (Vcc , Ground ,and Signal).The Vcc "Red" wire is con
 #### Arduino Code
 From the Arduino IDE **File>examples>servo>sweep** section, a ready to use code is provided.
 
-<kbd> **Figure 2** <br><br>Arduino IDE sweep example </kbd><br><br> <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/176ab61a-247b-485e-bbea-ca34b7da1239)</kbd>
+<kbd>**Figure 2** <br><br>Arduino IDE sweep example</kbd><br><br> 
+<kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/176ab61a-247b-485e-bbea-ca34b7da1239)</kbd>
 
