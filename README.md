@@ -1,4 +1,4 @@
-# Controlling-Motors-with-Arduino-UNO
+# Controlling Motors with Arduino UNO
 ## Table of Contents : 
 1. [Introduction](#Introduction)
 1. [Servo Motor](#Servo-Motor)
