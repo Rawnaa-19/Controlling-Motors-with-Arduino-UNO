@@ -11,7 +11,7 @@
      - [Circuit Components](#knob-Circuit-Components)
      - [Circuit Wiring](#knob-Circuit-Wiring)
      - [Arduino Code](#knob-Arduino-Code)
-     - [Code simulation]
+     - [Code simulation](#knob-Code-simulation)
 1. [DC Motor]
 1. [References]
 
@@ -84,7 +84,7 @@ From the Arduino IDE **File>examples>servo>knob** section, a ready to use code i
 <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/fc0328da-e6f3-4975-bb8c-87b1002d0ab6)
 </kbd></kbd>
 <br><br>
-The code uses servo library to control the servo motor. It rotates the servo shaft according to the Potentiometer.
+The code uses servo library to control the servo motor. It rotates the servo shaft according to the value read from Potentiometer.
 ```
 #include <Servo.h>
 
@@ -104,4 +104,9 @@ void loop() {
   delay(15);                           // waits for the servo to get there
 }
 ```
+#### Knob Code simulation
+
+
+https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/f42b3541-7178-47be-8872-43fbe6515737
+
 
