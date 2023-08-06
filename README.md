@@ -13,6 +13,10 @@
      - [Arduino Code](#knob-Arduino-Code)
      - [Code simulation](#knob-code-simulation)
 1. [DC Motor]
+     - [Circuit Components](#DC-Motor-Circuit-Components)
+     - [Circuit Wiring](#DC-Motor-Circuit-Wiring)
+     - [Arduino Code](#DC-Motor-Arduino-Code)
+     - [Code simulation](#knob-Motor-code-simulation)
 1. [References]
 
 ## Introduction
@@ -109,4 +113,15 @@ void loop() {
 
 https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/f42b3541-7178-47be-8872-43fbe6515737
 
+## DC Motor
+A DC motor is an electrical device that converts electrical energy into mechanical energy by creating a magnetic field. DC motors operate with motor drivers that control their speed and direction. In this task, the L293D H-bridge is used as the motor driver to control both the speed and direction of two DC motors.
+### DC Motor Circuit Components
+1. Arduino UNO
+2. Two DC motors
+3. L293D H-bridge
+4. Wires
+5. Breadboard
+6. 9v battery
+### DC Motor Circuit Wiring
+The L293D motor driver has 16 pins.Started with connecting the power pins(pin 8 and pin 16) to the power and the ground pins(pin 4, pin 5,pin 12,and pin 13) to the ground.
 
