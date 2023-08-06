@@ -62,4 +62,4 @@ void loop() {
 }
 ```
 #### Code simulation
-<kbd> https://clipchamp.com/watch/ZPxos7zDe5f </kbd>
+ https://clipchamp.com/watch/ZPxos7zDe5f
