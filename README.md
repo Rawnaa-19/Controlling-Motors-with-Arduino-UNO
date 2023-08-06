@@ -8,8 +8,8 @@
      - [Arduino Code](#Arduino-Code)
      - [Code simulation](#Code-simulation)
    - [Knob](#knob)
-     - [Circuit Components]
-     - [Circuit Wiring]
+     - [Circuit Components](#Circuit-Components)
+     - [Circuit Wiring](#Circuit-Wiring)
      - [Arduino Code]
      - [Code simulation]
 1. [DC Motor]
@@ -73,7 +73,8 @@ Here the servo motor is controlled using an analog potentiometer through the Ard
 4. Wires
 5. Breadboard
 #### Circuit Wiring 
-The servo motor has 3 wires (Vcc , Ground ,and Signal).The Vcc "Red" wire is connected to the 5V pin in the Arduino through the breadboard, the Ground "black" wire is connected to the GND "Ground" pin in the Arduino through the breadboard, and the signal "yellow" wire is connected to pin 9 in the Arduino through the breadboard. And the Potentiometer has 3 wires (Vcc ,Ground ,and Signal "wiper" ).The Vcc "Red" wire is connected to the 5V pin in the Arduino through the breadboard, the Ground "black" wire is connected to the GND "Ground" pin in the Arduino through the breadboard, and the wiper "Orange" wire is connected to the analog pin A0 in the Arduino through the breadboard.
+The servo motor has 3 wires (Vcc , Ground ,and Signal).The Vcc "Red" wire is connected to the 5V pin in the Arduino through the breadboard, the Ground "black" wire is connected to the GND "Ground" pin in the Arduino through the breadboard, and the signal "yellow" wire is connected to pin 9 in the Arduino through the breadboard. And the Potentiometer has 3 wires (Vcc ,Ground ,and Signal "wiper" ).The Vcc "Red" wire is connected to the 5V pin in the Arduino through the breadboard, the Ground "black" wire is connected to the GND "Ground" pin in the Arduino through the breadboard, and the wiper "Orange" wire is connected to the analog pin A0 in the Arduino through the breadboard.<br><br>
+
 <kbd> **Figure 3** <br><br>Servo Motor Knob Circuit <br><br> <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/958095c9-5d01-4725-a7cf-203b1f30b3ab)</kbd></kbd>
 
 
