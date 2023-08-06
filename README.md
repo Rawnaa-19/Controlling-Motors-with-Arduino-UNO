@@ -62,4 +62,4 @@ void loop() {
 }
 ```
 #### Code simulation
-https://clipchamp.com/watch/ZPxos7zDe5f?utm_source=share&utm_medium=social&utm_campaign=watch
+https://veed.io/view/514d2c4d-f6b4-42b7-aca4-4ad9f91bf956
