@@ -223,10 +223,10 @@ void speedControl() {
 
 https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/f2dc3658-7581-42e6-a08a-bce654832a9e
 ## References
-[^1]: Agarwal, T. (2021, January 20). DC Motor - Basics, construction, types & its Application. ElProCus - Electronic Projects for Engineering Students. https://www.elprocus.com/dc-motor-basics-types-application/ 
-[^2]: Engineers, L. M. (2022, July 21). Control DC Motors with L293D Motor Driver IC & Arduino. Last Minute Engineers. https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/ 
-[^3]: Servo Motor Basics with Arduino | Arduino Documentation. (n.d.). https://docs.arduino.cc/learn/electronics/servo-motors 
-[^4]: The purpose of Servo motors | Fuji Electric Product Column | Fuji Electric Global. (n.d.). https://www.fujielectric.com/products/column/servo/servo_01.html
+ [^1]: Agarwal, T. (2021, January 20). DC Motor - Basics, construction, types & its Application. ElProCus - Electronic Projects for Engineering Students. https://www.elprocus.com/dc-motor-basics-types-application/ 
+ [^2]: Engineers, L. M. (2022, July 21). Control DC Motors with L293D Motor Driver IC & Arduino. Last Minute Engineers. https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/ 
+ [^3]: Servo Motor Basics with Arduino | Arduino Documentation. (n.d.). https://docs.arduino.cc/learn/electronics/servo-motors 
+ [^4]: The purpose of Servo motors | Fuji Electric Product Column | Fuji Electric Global. (n.d.). https://www.fujielectric.com/products/column/servo/servo_01.html
 
 
 
