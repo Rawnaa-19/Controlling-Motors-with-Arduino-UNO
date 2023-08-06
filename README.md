@@ -10,7 +10,7 @@
    - [Knob](#knob)
      - [Circuit Components](#knob-Circuit-Components)
      - [Circuit Wiring](#knob-Circuit-Wiring)
-     - [Arduino Code]
+     - [Arduino Code](#knob-Arduino-Code)
      - [Code simulation]
 1. [DC Motor]
 1. [References]
@@ -77,5 +77,31 @@ The servo motor has 3 wires (Vcc , Ground ,and Signal).The Vcc "Red" wire is con
 
 <kbd> **Figure 3** <br><br>Servo Motor Knob Circuit <br><br> <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/958095c9-5d01-4725-a7cf-203b1f30b3ab)</kbd></kbd>
 
+### Knob Arduino Code
+From the Arduino IDE **File>examples>servo>knob** section, a ready to use code is provided.
 
+<kbd>**Figure 4**<br><br>Arduino IDE knob example<br><br> 
+<kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/fc0328da-e6f3-4975-bb8c-87b1002d0ab6)
+</kbd></kbd>
+<br><br>
+The code uses servo library to control the servo motor. It rotates the servo shaft according to the Potentiometer.
+```
+#include <Servo.h>
+
+Servo myservo;  // create servo object to control a servo
+
+int potpin = A0;  // analog pin used to connect the potentiometer
+int val;    // variable to read the value from the analog pin
+
+void setup() {
+  myservo.attach(9);  // attaches the servo on pin 9 to the servo object
+}
+
+void loop() {
+  val = analogRead(potpin);            // reads the value of the potentiometer (value between 0 and 1023)
+  val = map(val, 0, 1023, 0, 180);     // scale it for use with the servo (value between 0 and 180)
+  myservo.write(val);                  // sets the servo position according to the scaled value
+  delay(15);                           // waits for the servo to get there
+}
+```
 
