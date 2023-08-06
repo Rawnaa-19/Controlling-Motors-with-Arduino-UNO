@@ -2,9 +2,9 @@
 ## Table of Contents : 
 1. [Introduction](#Introduction)
 1. [Servo Motor](#Servo-Motor)
-   - [Sweep]
-     - [Circuit Components]
-     - [Circuit Wiring]
+   - [Sweep](#Sweep)
+     - [Circuit Components](#Circuit-Components)
+     - [Circuit Wiring](#Circuit-Wiring)
      - [Arduino Code]
      - [Code simulation]
    - [Knob]
@@ -26,5 +26,6 @@ Here the servo motor is controlled using Arduino UNO.
 2. Servo motor
 3. Wires
 4. Breadboard
-   
+#### Circuit Wiring
+
 
