@@ -62,4 +62,8 @@ void loop() {
 }
 ```
 #### Code simulation
-[<iframe src="https://www.veed.io/embed/514d2c4d-f6b4-42b7-aca4-4ad9f91bf956" width="744" height="504" frameborder="0" title="Circuit design Servo-Motor _ Tinkercad - Google Chrome 2023-08-06 06-27-58" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>](https://www.veed.io/download/514d2c4d-f6b4-42b7-aca4-4ad9f91bf956)https://www.veed.io/download/514d2c4d-f6b4-42b7-aca4-4ad9f91bf956
+
+
+
+https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/20212256-ba85-418b-92e1-5245cdfba6b7
+
