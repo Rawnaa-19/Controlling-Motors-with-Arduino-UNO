@@ -65,7 +65,8 @@ void loop() {
 
 
 
-https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/ecb6d781-729a-47a7-ad74-dd9ee78ee00d
+https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/18854ea1-9114-4db4-ba4a-2dafc692e2b4
+
 
 
 
