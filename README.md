@@ -8,8 +8,8 @@
      - [Arduino Code](#Arduino-Code)
      - [Code simulation](#Code-simulation)
    - [Knob](#knob)
-     - [Circuit Components](#Knob-Circuit-Components)
-     - [Circuit Wiring](#Knob-Circuit-Wiring)
+     - [Circuit Components](#knob-Circuit-Components)
+     - [Circuit Wiring](#knob-Circuit-Wiring)
      - [Arduino Code]
      - [Code simulation]
 1. [DC Motor]
