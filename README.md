@@ -1,7 +1,7 @@
 # Controlling-Motors-with-Arduino-UNO
 ## Table of Contents : 
-1. [Introduction](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/edit/main/README.md#introduction)
-1. [Servo Motor](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/edit/main/README.md#introduction)
+1. [Introduction](#Introduction)
+1. [Servo Motor](#Servo-Motor)
    - [Sweep]
      - [Circuit Components]
      - [Circuit Wiring]
