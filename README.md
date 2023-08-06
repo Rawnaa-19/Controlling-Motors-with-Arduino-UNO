@@ -6,7 +6,7 @@
      - [Circuit Components](#Circuit-Components)
      - [Circuit Wiring](#Circuit-Wiring)
      - [Arduino Code](#Arduino-Code)
-     - [Code simulation]
+     - [Code simulation](Code-simulation)
    - [Knob]
      - [Circuit Components]
      - [Circuit Wiring]
@@ -35,6 +35,7 @@ From the Arduino IDE **File>examples>servo>sweep** section, a ready to use code 
 
 <kbd>**Figure 2**<br><br>Arduino IDE sweep example<br><br> 
 <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/176ab61a-247b-485e-bbea-ca34b7da1239)</kbd></kbd>
+<br><br>
 The code uses servo library to control the servo motor. It rotates the servo shaft from 0 degrees to 180 and from 180 degrees to 0.
 ```
 #include <Servo.h>
@@ -60,3 +61,5 @@ void loop() {
   }
 }
 ```
+#### Code simulation
+<kbd>https://clipchamp.com/watch/ZPxos7zDe5f</kbd>
