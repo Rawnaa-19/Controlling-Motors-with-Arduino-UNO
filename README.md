@@ -5,7 +5,7 @@
    - [Sweep](#Sweep)
      - [Circuit Components](#Circuit-Components)
      - [Circuit Wiring](#Circuit-Wiring)
-     - [Arduino Code]
+     - [Arduino Code](#Arduino-Code)
      - [Code simulation]
    - [Knob]
      - [Circuit Components]
@@ -28,7 +28,10 @@ Here the servo motor is controlled using Arduino UNO.
 4. Breadboard
 #### Circuit Wiring
 The servo motor has 3 wires (Vcc , Ground ,and Signal).The Vcc "Red" wire is connected to the 5V pin in the Arduino through the breadboard, the Ground "black" wire is connected to the GND "Ground" pin in the Arduino through the breadboard, and the signal "yellow" wire is connected to the 2 pin in the Arduino through the breadboard.
-|:--:| 
-<kbd> *Figure 1*</kbd>
-<kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/2b280aa9-9d0c-43d3-b071-99b350fa8fc6)</kbd>
+
+<kbd> **Figure 1** <br><br>Servo Motor Sweep Circuit <br><br> ![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/2b280aa9-9d0c-43d3-b071-99b350fa8fc6)</kbd>
+#### Arduino Code
+From the Arduino IDE **File>examples>servo>sweep** section, a ready to use code is provided.
+
+<kbd> **Figure 2** <br><br>Arduino IDE sweep example <br><br> ![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/176ab61a-247b-485e-bbea-ca34b7da1239)</kbd>
 
