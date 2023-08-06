@@ -11,7 +11,7 @@
      - [Circuit Components](#knob-Circuit-Components)
      - [Circuit Wiring](#knob-Circuit-Wiring)
      - [Arduino Code](#knob-Arduino-Code)
-     - [Code simulation](#knob-Code-simulation)
+     - [Code simulation](#knob-code-simulation)
 1. [DC Motor]
 1. [References]
 
