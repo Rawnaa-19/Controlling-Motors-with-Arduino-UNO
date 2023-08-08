@@ -33,11 +33,11 @@ Here the servo motor is controlled using Arduino UNO.
 #### Circuit Wiring
 The servo motor has 3 wires (Vcc , Ground ,and Signal).The Vcc "Red" wire is connected to the 5V pin in the Arduino through the breadboard, the Ground "black" wire is connected to the GND "Ground" pin in the Arduino through the breadboard, and the signal "yellow" wire is connected to the 2 pin in the Arduino through the breadboard.
 
-<kbd> **Figure 1** <br><br>Servo Motor Sweep Circuit <br><br> <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/2b280aa9-9d0c-43d3-b071-99b350fa8fc6)</kbd></kbd>
+<kbd> **Figure 1** <br><br>*Servo Motor Sweep Circuit*<br><br> <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/2b280aa9-9d0c-43d3-b071-99b350fa8fc6)</kbd></kbd>
 #### Arduino Code
 From the Arduino IDE **File>examples>servo>sweep** section, a ready to use code is provided.[^3]
 
-<kbd>**Figure 2**<br><br>Arduino IDE sweep example<br><br> 
+<kbd>**Figure 2**<br><br>*Arduino IDE sweep example*<br><br> 
 <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/176ab61a-247b-485e-bbea-ca34b7da1239)</kbd></kbd>
 <br><br>
 The code uses servo library to control the servo motor. It rotates the servo shaft from 0 degrees to 180 and from 180 degrees to 0.
@@ -79,12 +79,12 @@ Here the servo motor is controlled using an analog potentiometer through the Ard
 #### Knob Circuit Wiring 
 The servo motor has 3 wires (Vcc , Ground ,and Signal).The Vcc "Red" wire is connected to the 5V pin in the Arduino through the breadboard, the Ground "black" wire is connected to the GND "Ground" pin in the Arduino through the breadboard, and the signal "yellow" wire is connected to pin 9 in the Arduino through the breadboard. And the Potentiometer has 3 wires (Vcc ,Ground ,and Signal "wiper" ).The Vcc "Red" wire is connected to the 5V pin in the Arduino through the breadboard, the Ground "black" wire is connected to the GND "Ground" pin in the Arduino through the breadboard, and the wiper "Orange" wire is connected to the analog pin A0 in the Arduino through the breadboard.<br><br>
 
-<kbd> **Figure 3** <br><br>Servo Motor Knob Circuit <br><br> <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/958095c9-5d01-4725-a7cf-203b1f30b3ab)</kbd></kbd>
+<kbd> **Figure 3** <br><br>*Servo Motor Knob Circuit*<br><br> <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/958095c9-5d01-4725-a7cf-203b1f30b3ab)</kbd></kbd>
 
 ### Knob Arduino Code
 From the Arduino IDE **File>examples>servo>knob** section, a ready to use code is provided.[^3]
 
-<kbd>**Figure 4**<br><br>Arduino IDE knob example<br><br> 
+<kbd>**Figure 4**<br><br>*Arduino IDE knob example*<br><br> 
 <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/fc0328da-e6f3-4975-bb8c-87b1002d0ab6)
 </kbd></kbd>
 <br><br>
@@ -125,7 +125,7 @@ A DC motor is an electrical device that converts electrical energy into mechanic
 ### DC Motor Circuit Wiring
 The L293D motor driver has 16 pins.Started with connecting the power pins(pin 8 and pin 16) to the power and the ground pins(pin 4, pin 5,pin 12,and pin 13) to the ground.The first motor "motor A" is connected to the output pins (pin 3 and 6) and the second motor "motor B" is connected to the output pins (pin 11 and 14).Input pins of motor A (pin 2 and 7) is connected to the arduino (pin 4 and 3) respectively.Input pins of motor B (pin 10 and 15) is connected to the arduino (pin 7 and 6) respectively. The enable pin of motor A that control the speed (pin 1) is connected to the arduino (pin 5), and the enable pin of motor B that control the speed (pin 9) is connected to the arduino (pin 8).[^2]<br><br>
 
-<kbd> **Figure 5** <br><br>DC Motor Circuit <br><br> <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/5c6b9a15-700e-4c1d-bbe8-eebd3808a761)</kbd></kbd>
+<kbd> **Figure 5** <br><br>*DC Motor Circuit*<br><br> <kbd>![image](https://github.com/Rawnaa-19/Controlling-Motors-with-Arduino-UNO/assets/106926557/5c6b9a15-700e-4c1d-bbe8-eebd3808a761)</kbd></kbd>
 
 ### DC Motor Arduino Code
 ```
